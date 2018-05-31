@@ -38,7 +38,7 @@ MechFetch
 
 ## NAME
 
-Umka::MechFetch - object-orientated automated page retrieval of a URI
+Umka::MechFetch - object-orientated automated page retrieval.
 
 ## SYNOPSIS
 

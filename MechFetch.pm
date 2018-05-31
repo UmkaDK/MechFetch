@@ -541,7 +541,7 @@ __END__
 
 =head1 NAME
 
-Umka::MechFetch - object-orientated, automated page retrieval of a URI
+Umka::MechFetch - object-orientated automated page retrieval.
 
 =head1 SYNOPSIS
 
