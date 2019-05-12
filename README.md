@@ -2,7 +2,7 @@ MechFetch
 =========
 
 **Version:** 4.1.79  
-**Status:** Fully functional, but missing tests.
+**Status:** Archived (Fully functional, but missing tests)
 
 *   [NAME](#NAME)
 *   [SYNOPSIS](#SYNOPSIS)
