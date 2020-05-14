@@ -1,8 +1,8 @@
 MechFetch
 =========
 
+**Status:** ARCHIVED - Fully functional, but missing tests
 **Version:** 4.1.79  
-**Status:** Archived (Fully functional, but missing tests)
 
 *   [NAME](#NAME)
 *   [SYNOPSIS](#SYNOPSIS)
@@ -433,15 +433,3 @@ An overloaded version of `get_basic_credential()` in LWP::UserAgent. This method
 ## SEE ALSO
 
 Config::General, WWW::Mechanize, LWP::UserAgent, HTTP::Response
-
-## DONATIONS
-
-This module is 100% free and is distributed under the terms of the MIT license. You're welcome to use it for private or commercial projects and to generally do whatever you want with it.
-
-If you found this module useful, would like to support its further development, or you are just feeling generous, then your contribution will be greatly appreciated!
-
-<p align="center">
-  <a href="https://paypal.me/UmkaDK"><img src="https://img.shields.io/badge/paypal-me-blue.svg?colorB=0070ba&logo=paypal" alt="PayPal.Me"></a>
-  &nbsp;
-  <a href="https://commerce.coinbase.com/checkout/7edcf00e-b25b-41b4-9429-ac6a3a3aceeb"><img src="https://img.shields.io/badge/coinbase-donate-gold.svg?colorB=ff8e00&logo=bitcoin" alt="Donate via Coinbase"></a>
-</p>
